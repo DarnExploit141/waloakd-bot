@@ -87,9 +87,9 @@ def prices(message):
     text = """
 💰 الأسعار
 
-• فحص سريع — 5,000 IQD
-• فحص متوسط — 15,000 IQD
-• فحص متقدم — يبدأ من 25,000 IQD
+• 1فحص سريع — 5,000 IQD
+• فحص متوسط — 25,000 IQD
+• فحص متقدم — يبدأ من 50,000 IQD
 """
     bot.send_message(message.chat.id, text)
 
