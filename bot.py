@@ -51,7 +51,7 @@ user_requests = {}
 @bot.message_handler(commands=['start'])
 def start(message):
     text = f"""
-👋 مرحباً بك في WaloAkd Security
+👋 مرحباً بك في Akd Security
 
 خدمات احترافية في:
 • Web Pentesting
